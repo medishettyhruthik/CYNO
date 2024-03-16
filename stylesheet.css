@@ -150,8 +150,8 @@ button{
     
     .two_down img{
     
-        height:20rem;
-        width:12rem;
+        height:15rem;
+        width:10rem;
 
        
     }
@@ -216,10 +216,10 @@ button{
     
     .two img{
         height: 5rem;
-        width: 10rem;
+        width: 8rem;
         align-items: center;
         justify-content: center;
-        margin-right: 0.4rem;
+        margin-right: 0.2rem;
         
     
         
@@ -315,7 +315,7 @@ button{
     }
 
     .three .left1 .new5 img {
-        height: 8rem;
+        height: 5rem;
         width: 8rem;
         list-style: none;
         background-color:white;
@@ -326,7 +326,7 @@ button{
     }
     
     .three .left1  .new6 img {
-        height: 10rem;
+        height: 8rem;
         width: 10rem;
         list-style: none;
         background-color:white;
@@ -376,7 +376,7 @@ button{
     }
     
     .last .para p{
-        font-size: 20px;
+        font-size: 8px;
         margin-top: 1rem;
     }
     
@@ -581,7 +581,7 @@ button{
         list-style: none;
         display: flex;
         margin-top: 6rem;
-        gap:10rem;
+        gap:3rem;
         align-items: center;
         
         
@@ -1305,7 +1305,7 @@ border-radius: 20px;
     
     .three .left1 .new5 img {
         height: 25rem;
-        width: 10rem;
+        width: 15rem;
         list-style: none;
         background-color:white;
         margin-top: 2rem;
@@ -1316,7 +1316,7 @@ border-radius: 20px;
     
     .three .left1  .new6 img {
         height: 25rem;
-        width: 15rem;
+        width: 10rem;
         list-style: none;
         background-color:white;
         margin-top: 2rem;
